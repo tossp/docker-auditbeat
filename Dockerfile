@@ -1,1 +1,1 @@
-FROM docker.elastic.co/beats/auditbeat:6.2.1
+FROM docker.elastic.co/beats/auditbeat:6.2.3
